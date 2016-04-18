@@ -1,0 +1,28 @@
+name: sleepingdog
+favicon: null
+layout_spectrum: 0.05617240350693464
+typography_spectrum: 0.9101545331068337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8575208748225123
+  lightness: 0.21748822974041104
+  saturation: 0.4638031900394708
+  rhythmicContrast: 0.20964206149801612
+purpose: []
